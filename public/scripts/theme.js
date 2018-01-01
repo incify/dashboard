@@ -106,7 +106,7 @@
 
       }
     }
-		$(document).ready(function() {
+		$(document).on('pjaxEnd', function(){
 
 		});
 })(jQuery);

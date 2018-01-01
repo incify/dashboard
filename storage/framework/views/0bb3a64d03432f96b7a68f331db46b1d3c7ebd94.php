@@ -97,6 +97,5 @@
           <script src="/scripts/theme.js"></script>
           <script src="/scripts/ajax.js"></script>
           <script src="/scripts/app.js"></script>
-          <script src="<?php echo e(mix('/js/custom.js')); ?>"></script>
     </body>
 </html>

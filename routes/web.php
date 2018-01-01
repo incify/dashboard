@@ -92,6 +92,8 @@ Route::group(['middleware' => ['auth', 'activated', 'currentUser', 'activity']],
 
     // Buy Token
     Route::get('token/buy', 'TokenController@buy');
+    // Token Calculator
+    Route::post('token/calc', 'TokenController@calc');
 });
 
 // Registered, activated, and is admin routes.

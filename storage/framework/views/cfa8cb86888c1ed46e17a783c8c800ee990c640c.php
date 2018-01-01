@@ -8,13 +8,6 @@
     <div class="navbar-text nav-title flex" id="pageTitle"><?php if(trim($__env->yieldContent('template_title'))): ?><?php echo $__env->yieldContent('template_title'); ?><?php endif; ?></div>
 
     <ul class="nav flex-row order-lg-2">
-      <!-- Notification -->
-      <li class="nav-item dropdown">
-        <a class="nav-link px-3" data-toggle="dropdown">
-          <i class="fa fa-bell text-muted"></i>
-          <span class="badge badge-pill up danger">8</span>
-        </a>
-      </li>
 
       <!-- User dropdown menu -->
       <?php if(!Auth::guest()): ?>

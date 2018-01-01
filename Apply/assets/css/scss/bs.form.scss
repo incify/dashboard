@@ -99,18 +99,16 @@ input:checked + .active-checked{
 }
 .ui-image-radio {
   .radio-box {
-    padding: 20px 50px;
+    display: inline-block;
+    padding: 20px 40px;
+    margin-right: 20px;
     border: 1px solid rgba(120, 130, 140, 0.2);
-
-  }
-  > input {
-    visibility: hidden; /* Makes input not-clickable */
-    position: absolute; /* Remove input from document flow */
-  }
-  input + div.radio-box {
-    cursor:pointer;
-  }
-  input:checked + div.radio-box {
-    border-color: red;
+    cursor: pointer;
+    &.selected {
+      border-color: red;
+    }
+    input {
+      display: none;
+    }
   }
 }
