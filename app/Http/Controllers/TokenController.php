@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Coinbase\Wallet\Client;
 use Coinbase\Wallet\Configuration;
 use Coinbase\Wallet\Resource\Address;
+use Coinbase\Wallet\Resource\EthereumNetwork;
 use App\Models\User;
 use Auth;
 
@@ -112,5 +113,17 @@ class TokenController extends Controller
       $address = new Address(['name' => $username]);
       $wallet = $client->createAccountAddress($account, $address)->getAddress();
       return $wallet;
+    }
+    public function transaction() {
+      $apiKey = env('COINBASE_API_KEY');
+      $apiSecret = env('COINBASE_API_SECRET');
+      $account_eth = env('ETH_WALLET_ID');
+
+      $configuration = Configuration::apiKey($apiKey, $apiSecret);
+      $client = Client::create($configuration);
+      $account = $client->getAccount($account_eth);
+      $address = $client->getAccountAddress($account, 'd9bb75bb-c741-5da0-9533-4b6166dd0512');
+      $transactions = $client->getAddressTransactions($address);
+      dd($transactions[0]->getStatus());
     }
 }

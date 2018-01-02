@@ -64,10 +64,10 @@
                                     </div>
                                 </div>
 
-					<button type="submit" class="btn primary">Pay</button>
+					<button type="submit" class="btn btn-lg primary">Pay</button>
 					<?php echo e(Form::close()); ?>
 
-				
+
 				</div>
 			</div>
 		</div>
