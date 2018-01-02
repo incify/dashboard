@@ -8,6 +8,7 @@ use Coinbase\Wallet\Configuration;
 use Coinbase\Wallet\Resource\Address;
 use Coinbase\Wallet\Resource\EthereumNetwork;
 use App\Models\User;
+use App\Coinbase\Api;
 use Auth;
 
 class TokenController extends Controller
@@ -115,6 +116,10 @@ class TokenController extends Controller
       return $wallet;
     }
     public function transaction() {
+      $api = new Api();
+      var_dump($api->createAddress(env('BTC_WALLET_ID'),'test'));
+    }
+    public function transaction2() {
       $apiKey = env('COINBASE_API_KEY');
       $apiSecret = env('COINBASE_API_SECRET');
       $account_eth = env('ETH_WALLET_ID');
