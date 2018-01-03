@@ -9,7 +9,7 @@
 			<div class="box">
 				<div class="box-header"><h3>Payment method and price calculator</h3></div>
 				<div class="box-body">
-					<?php echo e(Form::open(array('id' => 'refresh','url' => 'foo/bar'))); ?>
+					<?php echo e(Form::open(array('id' => 'refresh','url' => 'token/createorder'))); ?>
 
 					<div class="ui-image-radio">
 							<div class="radio-box selected" data-value="BTC">
@@ -40,13 +40,13 @@
 					<div class="form-group mb-2">
 						<label>Sum to Spend, <span class="label_curency_text">BTC</span></label>
 						<div class="input-group">
-							<?php echo e(Form::number('curency_quality',null,array('id' => 'OnChange1','class' => 'form-control'))); ?><span class="input-group-addon label_curency_text">BTC</span>
+							<?php echo e(Form::number('curency_quality',null,array('id' => 'OnChange1','class' => 'form-control','required' => 'required'))); ?><span class="input-group-addon label_curency_text">BTC</span>
 						</div>
 					</div>
 					<div class="form-group mb-2">
 						<label>Amount of <?php echo e($token_name); ?> to buy</label>
 						<div class="input-group">
-							<?php echo e(Form::number('token_quality',null,array('id' => 'OnChange2','class' => 'form-control'))); ?><span class="input-group-addon"><?php echo e($token_name); ?></span>
+							<?php echo e(Form::number('token_quality',null,array('id' => 'OnChange2','class' => 'form-control','required' => 'required'))); ?><span class="input-group-addon"><?php echo e($token_name); ?></span>
 						</div>
 					</div>
 					<div class="col-md-12 clearfix">

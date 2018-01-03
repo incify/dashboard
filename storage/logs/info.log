@@ -2810,3 +2810,779 @@ Log Entry Details:
 Log Entry Details:
 ["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
 []
+[2018-01-03 04:11:37] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:11:41] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 04:14:51] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:15:19] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:15:20] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:15:20] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:15:20] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:36:16] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:36:46] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:37:13] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:38:20] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:39:08] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:40:40] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:40:59] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:41:09] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:45:18] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:45:40] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:45:51] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:46:34] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:47:53] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:48:25] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:52:48] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:53:06] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:53:19] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 04:55:17] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:02:43] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:02:45] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:05:02] Dasboard.INFO: User Logged Out.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:05:12] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:05:15] Dasboard.INFO: User Logged Out.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:08:50] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:08:54] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:09:04] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:46:02] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:46:05] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:46:18] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:46:22] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:47:47] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:47:50] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:47:52] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:47:55] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:47:55] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:47:58] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:48:17] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:48:17] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:48:20] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:49:27] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:49:27] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:49:30] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:49:34] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:49:35] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:49:37] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:49:37] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:49:40] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:49:51] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:49:54] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:00] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:01] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:02] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:03] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:04] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:06] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:07] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:50:09] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:12] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:12] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:13] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:16] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:16] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:50:19] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:26] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:50:29] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:33] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:47] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:48] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:50:51] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:54] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:50:57] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:51:40] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:51:43] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:51:45] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:51:46] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:51:48] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:59:18] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:59:21] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:59:26] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:59:28] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:59:29] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:59:31] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:59:40] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:59:41] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 06:59:41] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 06:59:44] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:00:18] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 07:00:20] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:00:25] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:00:27] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:03:39] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 07:03:40] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:03:48] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:03:49] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:03:50] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:04:11] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 07:04:13] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:04:14] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:04:15] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:04:15] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:04:18] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:04:21] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:05:28] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 07:05:30] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:05:31] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:05:32] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:05:35] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:06:02] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 07:06:04] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:06:06] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:06:07] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:06:09] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:06:15] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:06:18] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:15:55] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 07:15:57] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:16:02] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:16:02] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:16:04] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:38:26] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 07:38:28] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:38:31] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:38:36] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:45:37] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 07:45:39] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:45:40] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:45:40] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:45:42] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:57:44] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 07:57:57] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:00:35] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:00:38] Dasboard.INFO: User Logged Out.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:01:30] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:01:32] Dasboard.INFO: User Logged Out.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"btc_wallet\":\"1CmVN687Ter2mfvsmfh5jK1sdPf9uxntCg\",\"eth_wallet\":\"0x7Fea75c3B435CA74063509593c2Ef73f61df8f3C\",\"ltc_wallet\":\"Le2xabAyikggHtYnnkXTyeEhtitQ4zvFJe\",\"bch_wallet\":\"15yKiB8C7SNQ6Srp9AKSiCeyzRn1QjP4zc\",\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:01:39] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+[null]
+[]
+[2018-01-03 08:07:13] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:08:31] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 08:08:33] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:08:38] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:08:41] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:08:42] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:10:07] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:10:12] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:10:29] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:10:54] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:10:59] Dasboard.INFO: User Logged Out.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:12:07] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:12:13] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:12:43] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:13:00] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:13:14] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:13:32] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:14:21] Dasboard.INFO: CheckCurrentUser middlware was used: profile.edit.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 08:14:22] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:14:40] Dasboard.INFO: CheckCurrentUser middlware was used: profile.edit.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 08:14:42] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:14:58] Dasboard.INFO: CheckCurrentUser middlware was used: profile.edit.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null,\"profile\":{\"id\":3,\"user_id\":3,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":\"/images/profile/3/avatar/avatar.jpg\",\"avatar_status\":1,\"created_at\":null,\"updated_at\":\"2017-12-27 05:15:32\"}})"]
+[]
+[2018-01-03 08:15:00] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:15:32] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:15:46] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:16:11] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:16:23] Dasboard.INFO: User Logged Out.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":3,\"name\":\"dzungnova\",\"first_name\":\"Dung\",\"last_name\":\"Dao\",\"email\":\"dzungnovaz@gmail.com\",\"phone\":null,\"signup_ip_address\":\"192.168.10.1\",\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":null,\"updated_ip_address\":\"192.168.10.1\",\"deleted_ip_address\":null,\"created_at\":\"2017-12-27 04:44:26\",\"updated_at\":\"2017-12-28 08:25:15\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:16:43] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:16:45] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:17:39] Dasboard.INFO: CheckCurrentUser middlware was used: .  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:17:45] Dasboard.INFO: CheckCurrentUser middlware was used: profile.edit.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:17:53] Dasboard.INFO: CheckCurrentUser middlware was used: profile.edit.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:40:53] Dasboard.INFO: CheckCurrentUser middlware was used: profile.edit.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:48:09] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null})"]
+[]
+[2018-01-03 08:48:36] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:49:35] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:50:38] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:51:38] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:54:53] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:56:12] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:56:32] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:56:43] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 08:58:41] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 09:01:03] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 09:02:05] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 09:27:00] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null})"]
+[]
+[2018-01-03 09:27:41] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 09:27:58] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 09:28:31] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 09:28:58] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 09:29:15] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]
+[2018-01-03 09:29:28] Dasboard.INFO: CheckCurrentUser middlware was used: {order_id}.  
+Log Entry Details:
+["[object] (App\\Models\\User: {\"id\":5,\"name\":\"user\",\"first_name\":\"User\",\"last_name\":\"Name\",\"email\":\"user@demo.com\",\"phone\":null,\"signup_ip_address\":null,\"signup_confirmation_ip_address\":null,\"signup_sm_ip_address\":null,\"admin_ip_address\":\"192.168.10.1\",\"updated_ip_address\":null,\"deleted_ip_address\":null,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\",\"deleted_at\":null,\"profile\":{\"id\":5,\"user_id\":5,\"theme_id\":1,\"location\":null,\"bio\":null,\"twitter_username\":null,\"github_username\":null,\"avatar\":null,\"avatar_status\":0,\"created_at\":\"2018-01-03 08:16:08\",\"updated_at\":\"2018-01-03 08:16:08\"}})"]
+[]

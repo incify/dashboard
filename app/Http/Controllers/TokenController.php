@@ -8,41 +8,15 @@ use Coinbase\Wallet\Configuration;
 use Coinbase\Wallet\Resource\Address;
 use Coinbase\Wallet\Resource\EthereumNetwork;
 use App\Models\User;
+use App\Models\Order;
 use App\Coinbase\Api;
 use Auth;
 
 class TokenController extends Controller
 {
     public function buy() {
-      $token_name = env('TOKEN_NAME');
-      $apiKey = env('COINBASE_API_KEY');
-      $apiSecret = env('COINBASE_API_SECRET');
-
-      $account_btc = env('BTC_WALLET_ID');
-      $account_eth = env('ETH_WALLET_ID');
-      $account_ltc = env('LTC_WALLET_ID');
-      $account_bch = env('BCH_WALLET_ID');
-
-      $currentUser = Auth::user();
-      $user = User::find($currentUser->id);
-      if($currentUser->btc_wallet == NULL) {
-        $user->btc_wallet = $this->create_address($apiKey, $apiSecret, $account_btc);
-        $user->save();
-      }
-      if($currentUser->eth_wallet == NULL) {
-        $user->eth_wallet = $this->create_address($apiKey, $apiSecret, $account_eth);
-        $user->save();
-      }
-      if($currentUser->ltc_wallet == NULL) {
-        $user->ltc_wallet = $this->create_address($apiKey, $apiSecret, $account_ltc);
-        $user->save();
-      }
-      if($currentUser->bch_wallet == NULL) {
-        $user->bch_wallet = $this->create_address($apiKey, $apiSecret, $account_bch);
-        $user->save();
-      }
       $data = [
-          'token_name'         => $token_name,
+          'token_name'         => env('TOKEN_NAME'),
           'token_bonus'        => env('TOKEN_BONUS')
       ];
       return view('token/buy-token')->with($data);
@@ -105,19 +79,25 @@ class TokenController extends Controller
        );
         return Response($arrayName);
     }
-    public function create_address($apiKey, $apiSecret, $id) {
-      $configuration = Configuration::apiKey($apiKey, $apiSecret);
-      $client = Client::create($configuration);
-      $account = $client->getAccount($id);
+    public function StoreOrder(Request $request) {
+      $order = new Order;
+      $api = new Api;
       $currentUser = Auth::user();
-      $username = $currentUser->name;
-      $address = new Address(['name' => $username]);
-      $wallet = $client->createAccountAddress($account, $address)->getAddress();
-      return $wallet;
+      $order->user_id = $currentUser->id;
+      $order->currency = $request->Currency;
+      $order->token = $request->token_quality;
+      $order->sent = $request->curency_quality;
+      $order->status = 'pending';
+      $order->save();
+      //$api->createAddress($request->Currency,$order->id);
+      return redirect('/token/vieworder/'.$order->id);
     }
-    public function transaction() {
-      $api = new Api();
-      var_dump($api->createAddress(env('BTC_WALLET_ID'),'test'));
+    public function ViewOrder($oder_id) {
+      $data = [
+          'token_name'         => env('TOKEN_NAME'),
+          'token_bonus'        => env('TOKEN_BONUS')
+      ];
+      return view('token/view-order')->with($data);
     }
     public function transaction2() {
       $apiKey = env('COINBASE_API_KEY');
