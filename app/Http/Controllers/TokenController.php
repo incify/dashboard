@@ -6,9 +6,13 @@ use Illuminate\Http\Request;
 use Coinbase\Wallet\Client;
 use Coinbase\Wallet\Configuration;
 use Coinbase\Wallet\Resource\Address;
+use Coinbase\Wallet\Resource\BitcoinNetwork;
+use Coinbase\Wallet\Resource\BitcoinCashNetwork;
 use Coinbase\Wallet\Resource\EthereumNetwork;
+use Coinbase\Wallet\Resource\LitecoinNetwork;
 use App\Models\User;
 use App\Models\Order;
+use App\Models\WalletAddress;
 use App\Coinbase\Api;
 use Auth;
 
@@ -93,11 +97,30 @@ class TokenController extends Controller
       return redirect('/token/vieworder/'.$order->id);
     }
     public function ViewOrder($oder_id) {
+      try {
+          $order = $this->getOrderById($oder_id);
+          $address = $this->getWalletAddressByOrderId($oder_id);
+      } catch (ModelNotFoundException $exception) {
+          abort(404);
+      }
       $data = [
           'token_name'         => env('TOKEN_NAME'),
-          'token_bonus'        => env('TOKEN_BONUS')
+          'currency'        => $order->currency,
+          'sent'        => $order->sent,
+          'address'        => $address->address
       ];
       return view('token/view-order')->with($data);
+    }
+    public function getOrderById($id)
+    {
+        $currentUser = Auth::user();
+        $order = new Order;
+        return $order->whereid($id)->firstOrFail();
+    }
+    public function getWalletAddressByOrderId($id)
+    {
+        $address = new WalletAddress;
+        return $address->whereorder_id($id)->first();
     }
     public function transaction2() {
       $apiKey = env('COINBASE_API_KEY');

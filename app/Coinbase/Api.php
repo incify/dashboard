@@ -6,7 +6,10 @@ use App\Models\User;
 use Coinbase\Wallet\Client;
 use Coinbase\Wallet\Configuration;
 use Coinbase\Wallet\Resource\Address;
+use Coinbase\Wallet\Resource\BitcoinNetwork;
+use Coinbase\Wallet\Resource\BitcoinCashNetwork;
 use Coinbase\Wallet\Resource\EthereumNetwork;
+use Coinbase\Wallet\Resource\LitecoinNetwork;
 class Api {
   public function __construct() {
     $apiKey = env('COINBASE_API_KEY');
