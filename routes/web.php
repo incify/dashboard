@@ -89,12 +89,13 @@ Route::group(['middleware' => ['auth', 'activated', 'currentUser', 'activity']],
 
     // Route to upload user avatar.
     Route::post('avatar/upload', ['as' => 'avatar.upload', 'uses' => 'ProfilesController@upload']);
-
+    Route::get('dashboard', 'DashboardController@index');
     // Buy Token
     Route::get('token/buy', 'TokenController@buy');
     // Token Calculator
     Route::post('token/calc', 'TokenController@calc');
     Route::post('token/createorder', 'TokenController@StoreOrder');
+    Route::post('token/updateorder', 'TokenController@UpdateOrder');
     Route::get('token/vieworder/{order_id}', [
         'as'   => '{order_id}',
         'uses' => 'TokenController@ViewOrder',

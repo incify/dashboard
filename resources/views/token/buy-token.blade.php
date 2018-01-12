@@ -36,7 +36,7 @@
 					<div class="form-group mb-2">
 						<label>Sum to Spend, <span class="label_curency_text">BTC</span></label>
 						<div class="input-group">
-							{{ Form::number('curency_quality',null,array('id' => 'OnChange1','class' => 'form-control','required' => 'required')) }}<span class="input-group-addon label_curency_text">BTC</span>
+							{{ Form::text('curency_quality',null,array('id' => 'OnChange1','class' => 'form-control','required' => 'required')) }}<span class="input-group-addon label_curency_text">BTC</span>
 						</div>
 					</div>
 					<div class="form-group mb-2">

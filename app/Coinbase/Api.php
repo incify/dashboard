@@ -42,4 +42,25 @@ class Api {
     ['order_id' => $order_id, 'address_id' => $wallet->getId(), 'address' => $wallet->getAddress()]
     );
   }
+  public function CheckTransaction($account_type,$address_id){
+    if($account_type == 'BTC') {
+      $account_id = env('BTC_WALLET_ID');
+    }elseif($account_type == 'ETH') {
+      $account_id = env('ETH_WALLET_ID');
+    }elseif($account_type == 'BCH') {
+      $account_id = env('BCH_WALLET_ID');
+    }elseif($account_type == 'LTC') {
+      $account_id = env('LTC_WALLET_ID');
+    }
+    $account = $this->client->getAccount($account_id);
+    $address = $this->client->getAccountAddress($account,$address_id);
+    $transactions = $this->client->getAddressTransactions($address);
+    return $transactions[0];
+  }
+  public function UpdateOrderStatus() {
+    
+  }
+  public function UpdateOrderBalance($order_id) {
+    $transactions = $api->CheckTransaction($request->account_type,$request->address);
+  }
 }

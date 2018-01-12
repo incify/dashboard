@@ -91,12 +91,13 @@ class TokenController extends Controller
       $order->currency = $request->Currency;
       $order->token = $request->token_quality;
       $order->sent = $request->curency_quality;
-      $order->status = 'pending';
+      $order->status = 'waitting';
       $order->save();
-      //$api->createAddress($request->Currency,$order->id);
+      $api->createAddress($request->Currency,$order->id);
       return redirect('/token/vieworder/'.$order->id);
     }
     public function ViewOrder($oder_id) {
+      $currentUser = Auth::user();
       try {
           $order = $this->getOrderById($oder_id);
           $address = $this->getWalletAddressByOrderId($oder_id);
@@ -105,11 +106,18 @@ class TokenController extends Controller
       }
       $data = [
           'token_name'         => env('TOKEN_NAME'),
+          'order_id'        => $order->id,
+          'order_status'        => $order->status,
           'currency'        => $order->currency,
-          'sent'        => $order->sent,
-          'address'        => $address->address
+          'sent'        =>  number_format($order->sent, 6),
+          'address'        => $address->address,
+          'address_id'        => $address->address_id
       ];
-      return view('token/view-order')->with($data);
+      if($order->user_id == $currentUser->id) {
+          return view('token/view-order')->with($data);
+      }else {
+        abort(404);
+      }
     }
     public function getOrderById($id)
     {
@@ -122,16 +130,10 @@ class TokenController extends Controller
         $address = new WalletAddress;
         return $address->whereorder_id($id)->first();
     }
-    public function transaction2() {
-      $apiKey = env('COINBASE_API_KEY');
-      $apiSecret = env('COINBASE_API_SECRET');
-      $account_eth = env('ETH_WALLET_ID');
-
-      $configuration = Configuration::apiKey($apiKey, $apiSecret);
-      $client = Client::create($configuration);
-      $account = $client->getAccount($account_eth);
-      $address = $client->getAccountAddress($account, 'd9bb75bb-c741-5da0-9533-4b6166dd0512');
-      $transactions = $client->getAddressTransactions($address);
-      dd($transactions[0]->getStatus());
+    public function UpdateOrder(Request $request) {
+      $api = new Api;
+      $transactions = $api->CheckTransaction($request->account_type,$request->address);
+      $arrayName = array('status' => 'pending');
+      return Response($arrayName);
     }
 }

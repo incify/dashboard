@@ -84,7 +84,7 @@ class User extends Authenticatable
     {
         return $this->hasOne('App\Models\Profile');
     }
-
+    
     // User Profile Setup - SHould move these to a trait or interface...
 
     public function profiles()
