@@ -13,7 +13,7 @@ class Kernel extends ConsoleKernel
      * @var array
      */
     protected $commands = [
-        //
+        'App\Console\Commands\ExpireOrder'
     ];
 
     /**
@@ -30,6 +30,8 @@ class Kernel extends ConsoleKernel
 
         $schedule->command('activations:clean')
                     ->daily();
+        $schedule->command('orders:expire')
+                    ->hourly();
     }
 
     /**

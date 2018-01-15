@@ -33,9 +33,12 @@
                 @if ($order->status == 'completed')
                 <a href="/token/paid-invoice/{{$order->id}}" class="_500">Invert {{$order->sent}} {{$order->currency}}</a>
                 <span class="badge badge-pill success pos-rlt text-sm mr-2"><b class="arrow left b-success pull-in"></b>Completed</span>
-                @else
-                <a href="/token/vieworder/{{$order->id}}" class="_500">Invert {{$order->sent}} {{$order->currency}}</a>
-                <span class="badge badge-pill warning pos-rlt text-sm mr-2"><b class="arrow left b-warning pull-in"></b>Pending</span>
+                @elseif($order->status == 'expired')
+                <span class="_500">Invert {{$order->sent}} {{$order->currency}}</span>
+                <span class="badge badge-pill danger pos-rlt text-sm mr-2"><b class="arrow left b-danger pull-in"></b>Expired</span>
+								@else
+								<a href="/token/vieworder/{{$order->id}}" class="_500">Invert {{$order->sent}} {{$order->currency}}</a>
+								<span class="badge badge-pill warning pos-rlt text-sm mr-2"><b class="arrow left b-warning pull-in"></b>Pending</span>
                 @endif
                 <small class="d-block text-muted">{{$order->created_at}}</small>
               </div>
@@ -43,6 +46,7 @@
                 <p class="token-balance"><b>{{$order->token}} {{ env('TOKEN_NAME') }}</b></p>
                 @if ($order->status == 'completed')
                 <a href="/token/paid-invoice/{{$order->id}}" class="btn btn-sm success" href="#">View Invoice</a>
+								@elseif($order->status == 'expired')
                 @else
                 <a href="/token/vieworder/{{$order->id}}" class="btn btn-sm primary" href="#">Pay</a>
                 @endif

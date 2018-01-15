@@ -14,6 +14,7 @@ use App\Models\User;
 use App\Models\Order;
 use App\Models\WalletAddress;
 use App\Coinbase\Api;
+use Carbon\Carbon;
 use Auth;
 
 class TokenController extends Controller
@@ -87,11 +88,14 @@ class TokenController extends Controller
       $order = new Order;
       $api = new Api;
       $currentUser = Auth::user();
+      $now = Carbon::now();
+
       $order->user_id = $currentUser->id;
       $order->currency = $request->Currency;
       $order->token = $request->token_quality;
       $order->sent = $request->curency_quality;
       $order->status = 'waitting';
+      $order->expires_on = $now->addHour();
       $order->save();
       $api->createAddress($request->Currency,$order->id);
       return redirect('/token/vieworder/'.$order->id);

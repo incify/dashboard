@@ -22,7 +22,7 @@
 
                 <li class="nav-header">
                     <div class="py-3">
-                        <a href="#" class="btn btn-sm success theme-accent btn-block">
+                        <a href="/token/buy" class="btn btn-sm success theme-accent btn-block">
                           <i class="fa fa-fw fa-plus"></i>
                           <span class="hidden-folded d-inline">Buy Token</span>
                         </a>

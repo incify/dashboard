@@ -32,9 +32,12 @@
                 <?php if($order->status == 'completed'): ?>
                 <a href="/token/paid-invoice/<?php echo e($order->id); ?>" class="_500">Invert <?php echo e($order->sent); ?> <?php echo e($order->currency); ?></a>
                 <span class="badge badge-pill success pos-rlt text-sm mr-2"><b class="arrow left b-success pull-in"></b>Completed</span>
-                <?php else: ?>
-                <a href="/token/vieworder/<?php echo e($order->id); ?>" class="_500">Invert <?php echo e($order->sent); ?> <?php echo e($order->currency); ?></a>
-                <span class="badge badge-pill warning pos-rlt text-sm mr-2"><b class="arrow left b-warning pull-in"></b>Pending</span>
+                <?php elseif($order->status == 'expired'): ?>
+                <span class="_500">Invert <?php echo e($order->sent); ?> <?php echo e($order->currency); ?></span>
+                <span class="badge badge-pill danger pos-rlt text-sm mr-2"><b class="arrow left b-danger pull-in"></b>Expired</span>
+								<?php else: ?>
+								<a href="/token/vieworder/<?php echo e($order->id); ?>" class="_500">Invert <?php echo e($order->sent); ?> <?php echo e($order->currency); ?></a>
+								<span class="badge badge-pill warning pos-rlt text-sm mr-2"><b class="arrow left b-warning pull-in"></b>Pending</span>
                 <?php endif; ?>
                 <small class="d-block text-muted"><?php echo e($order->created_at); ?></small>
               </div>
@@ -42,6 +45,7 @@
                 <p class="token-balance"><b><?php echo e($order->token); ?> <?php echo e(env('TOKEN_NAME')); ?></b></p>
                 <?php if($order->status == 'completed'): ?>
                 <a href="/token/paid-invoice/<?php echo e($order->id); ?>" class="btn btn-sm success" href="#">View Invoice</a>
+								<?php elseif($order->status == 'expired'): ?>
                 <?php else: ?>
                 <a href="/token/vieworder/<?php echo e($order->id); ?>" class="btn btn-sm primary" href="#">Pay</a>
                 <?php endif; ?>
