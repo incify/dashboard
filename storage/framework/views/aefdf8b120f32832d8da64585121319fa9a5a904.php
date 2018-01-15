@@ -9,7 +9,7 @@
           <div class="d-flex">
             <span class="text-muted">Your <?php echo e(env('TOKEN_NAME')); ?> balance</span>
           </div>
-          <div class="py-3 text-center text-lg text-success"><?php echo e(Auth::user()->balance); ?></div>
+          <div class="py-3 text-center text-lg text-success"><?php echo e($token_balance); ?></div>
         </div>
       </div>
       <div class="col-6 col-lg-3">
@@ -17,7 +17,7 @@
           <div class="d-flex">
             <span class="text-muted">Referral tokens</span>
           </div>
-          <div class="py-3 text-center text-lg text-primary"><?php echo e(Auth::user()->balance); ?></div>
+          <div class="py-3 text-center text-lg text-primary"><?php echo e($token_balance); ?></div>
         </div>
       </div>
       <div class="col-12 col-md-12 col-lg-6">
@@ -31,7 +31,7 @@
               <div class="float-left">
                 <?php if($order->status == 'completed'): ?>
                 <a href="/token/paid-invoice/<?php echo e($order->id); ?>" class="_500">Invert <?php echo e($order->sent); ?> <?php echo e($order->currency); ?></a>
-                <span class="badge badge-pill success pos-rlt text-sm mr-2"><b class="arrow left b-success pull-in"></b>Completed</span>
+                <span class="badge badge-pill success pos-rlt text-sm mr-2"><b class="arrow left b-success pull-in"></b>Paid</span>
                 <?php elseif($order->status == 'expired'): ?>
                 <span class="_500">Invert <?php echo e($order->sent); ?> <?php echo e($order->currency); ?></span>
                 <span class="badge badge-pill danger pos-rlt text-sm mr-2"><b class="arrow left b-danger pull-in"></b>Expired</span>
@@ -47,7 +47,7 @@
                 <a href="/token/paid-invoice/<?php echo e($order->id); ?>" class="btn btn-sm success" href="#">View Invoice</a>
 								<?php elseif($order->status == 'expired'): ?>
                 <?php else: ?>
-                <a href="/token/vieworder/<?php echo e($order->id); ?>" class="btn btn-sm primary" href="#">Pay</a>
+                <a href="/token/vieworder/<?php echo e($order->id); ?>" class="btn btn-sm primary" href="#">Invest Now</a>
                 <?php endif; ?>
               </div>
             </div>

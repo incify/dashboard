@@ -57,10 +57,4 @@ class Api {
     $transactions = $this->client->getAddressTransactions($address);
     return $transactions[0];
   }
-  public function UpdateOrderStatus() {
-    
-  }
-  public function UpdateOrderBalance($order_id) {
-    $transactions = $api->CheckTransaction($request->account_type,$request->address);
-  }
 }

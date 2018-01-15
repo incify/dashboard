@@ -19,6 +19,7 @@
     "vue": "^2.1.10"
   },
   "dependencies": {
+    "coinbase": "^2.0.7",
     "dropzone": "^4.3.0",
     "hideshowpassword": "^2.0.10",
     "password-strength-meter": "^1.1.2"

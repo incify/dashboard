@@ -52,7 +52,7 @@
 window.onload = function () {
 	jQuery(document).ready(function ($) {
 		function checkorderstatus() {
-			var data = { order_id: "<?php echo e($order_id); ?>", order_status: "<?php echo e($order_status); ?>", account_type: "<?php echo e($currency); ?>", address:"<?php echo e($address_id); ?>"};
+			var data = { order_id: "<?php echo e($order_id); ?>", order_status: "<?php echo e($order_status); ?>", account_type: "<?php echo e($currency); ?>"};
 			$("#paid-notice-text").html("<p class=\"pt-3\"><img src='/images/ajax-loader.svg'/></p>");
 			$.ajax({
 				headers: {

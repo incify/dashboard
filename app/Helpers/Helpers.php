@@ -1,6 +1,11 @@
 <?php
 namespace App\Helpers;
-
+use App\Models\WalletAddress;
+use App\Models\Order;
+use App\Models\Profile;
+use App\Models\User;
+use App\Coinbase\Api;
+use Auth;
 class Helpers
 {
   public static function svg_icon($currency){
@@ -15,5 +20,58 @@ class Helpers
       $icon = '<svg width="38" height="38" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg" class="CurrencyIcon-kSehSM kxILlN"><g fill="none" fill-rule="evenodd"><circle fill="#8DC451" cx="19" cy="19" r="19"></circle><path d="M24.5 16.72c.37-.76.48-1.64.25-2.52-.75-2.76-2.84-3.98-5.58-3.25l-.89-3.32a.23.23 0 0 0-.28-.16l-1.32.35a.23.23 0 0 0-.16.27l.9 3.33-1.76.47-.9-3.32a.23.23 0 0 0-.27-.16l-1.32.35a.23.23 0 0 0-.16.28l.9 3.32-3.74 1a.23.23 0 0 0-.16.29l.35 1.32c.04.12.16.2.28.17l.22-.06c.97-.26 1.97.32 2.23 1.3l1.9 7.08c.25.93-.25 1.87-1.13 2.2a.23.23 0 0 0-.14.21l.02 1.43c0 .07.04.13.1.18.05.04.12.05.19.04l3.67-.99.9 3.33c.03.12.15.19.27.15l1.31-.35c.12-.03.2-.16.16-.28l-.88-3.32 1.75-.47.9 3.33c.03.12.15.19.27.15l1.32-.35c.12-.03.19-.16.16-.28l-.9-3.32.88-.24c2.75-.73 3.95-2.83 3.2-5.6a3.63 3.63 0 0 0-2.54-2.56zm-8.13-2.17l2.63-.7c.97-.26 1.97.32 2.23 1.3.27.97-.3 1.98-1.28 2.24l-2.63.7-.95-3.54zm5.88 7.91l-3.5.94-.96-3.54 3.51-.94c.97-.26 1.97.32 2.24 1.3.26.98-.32 1.98-1.29 2.24z" fill="#FFF"></path></g></svg>';
     }
     return $icon;
+  }
+  public function getWalletAddressByOrderId($id)
+  {
+      $address = new WalletAddress;
+      return $address->whereorder_id($id)->first();
+  }
+  public function checkTokenbanace($order_id,$order_curency) {
+    $api = new Api;
+    $address = $this->getWalletAddressByOrderId($order_id);
+    $transaction= $api->CheckTransaction($order_curency,$address->address_id);
+    if($transaction) {
+      $status = $transaction->getStatus();
+      $amount = $transaction->getAmount();
+    }else{
+      $status = 'waiting';
+      $amount = 0;
+    }
+    if($status == 'completed') {
+      $save_order = new Order;
+      $save_balance = new Profile;
+      $currentUser = Auth::user();
+      $save_order->whereid($order_id)->update(['status' => 'completed']);
+      if($this->getSentToken($order_id) == 0) {
+        $rate = 0;
+        if($amount->getCurrency() == 'BTC'){
+          $rate = env('TOKEN_BTC');
+        }elseif($amount->getCurrency() == 'ETH'){
+          $rate = env('TOKEN_ETH');
+        }elseif($amount->getCurrency() == 'LTC'){
+          $rate = env('TOKEN_LTC');
+        }elseif($amount->getCurrency() == 'BCH'){
+          $rate = env('TOKEN_BCH');
+        }
+        $token_value = $amount->getAmount() * $rate;
+        $token_bonus = $token_value * (env('TOKEN_BONUS')/100);
+        $token = $this->getUserToken() + $token_value + $token_bonus;
+        $save_balance->whereuser_id($currentUser->id)->update(['token' => $token]);
+        $save_order->whereid($order_id)->update(['sent_token' => 1]);
+      }
+    }
+  }
+  public function getUserToken()
+  {
+      $currentUser = Auth::user();
+      return Profile::whereuser_id($currentUser->id)->firstOrFail()->token;
+  }
+  public function getSentToken($id)
+  {
+      return Order::whereid($id)->firstOrFail()->sent_token;
+  }
+  public static function token_rate($currency) {
+      $rate = 1/env('TOKEN_'.$currency);
+      return $rate;
   }
 }

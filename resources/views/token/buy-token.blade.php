@@ -9,7 +9,7 @@
 		<div class="col-lg-8 offset-lg-2 col-md-8 offset-md-2">
 			<div class="box">
 				<div class="box-header"><h3>Payment method and price calculator</h3></div>
-				<div class="box-body">
+				<div class="box-body clearfix">
 					{{ Form::open(array('id' => 'refresh','url' => 'token/createorder')) }}
 					<div class="ui-image-radio mb-5">
 							<div class="radio-box selected" data-value="BTC">
@@ -60,7 +60,7 @@
                                     </div>
                                 </div>
 
-					<button type="submit" class="btn btn-lg primary">Pay</button>
+					<p class="float-right"><button type="submit" class="btn btn-lg primary">Invest Now</button></p>
 					{{ Form::close() }}
 
 				</div>

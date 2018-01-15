@@ -15,6 +15,7 @@ use App\Models\Order;
 use App\Models\WalletAddress;
 use App\Coinbase\Api;
 use Carbon\Carbon;
+use App\Helpers\Helpers;
 use Auth;
 
 class TokenController extends Controller
@@ -89,12 +90,13 @@ class TokenController extends Controller
       $api = new Api;
       $currentUser = Auth::user();
       $now = Carbon::now();
+      $token_bonus = $request->token_quality*(env('TOKEN_BONUS')/100);
 
       $order->user_id = $currentUser->id;
       $order->currency = $request->Currency;
-      $order->token = $request->token_quality;
+      $order->token = $request->token_quality + $token_bonus;
       $order->sent = $request->curency_quality;
-      $order->status = 'waitting';
+      $order->status = 'waiting';
       $order->expires_on = $now->addHour();
       $order->save();
       $api->createAddress($request->Currency,$order->id);
@@ -115,7 +117,7 @@ class TokenController extends Controller
           'currency'        => $order->currency,
           'sent'        =>  number_format($order->sent, 6),
           'address'        => $address->address,
-          'address_id'        => $address->address_id
+          'sent_token'        => $address->sent_token
       ];
       if($order->user_id == $currentUser->id) {
           return view('token/view-order')->with($data);
@@ -123,9 +125,34 @@ class TokenController extends Controller
         abort(404);
       }
     }
+    public function ViewPaidInvoice($order_id) {
+      $order = $this->getOrderById($order_id);
+      $currentUser = Auth::user();
+      if($order->user_id == $currentUser->id && $order->status =='completed') {
+        $data = [
+            'token_name'         => env('TOKEN_NAME'),
+            'order'         => $order
+        ];
+        return view('token/view-paid-invoice')->with($data);
+      }else{
+        abort(404);
+      }
+    }
+    public function ViewPaidInvoiceDetail($order_id) {
+      $order = $this->getOrderById($order_id);
+      $currentUser = Auth::user();
+      if($order->user_id == $currentUser->id && $order->status =='completed') {
+        $data = [
+            'token_name'         => env('TOKEN_NAME'),
+            'order'         => $order
+        ];
+        return view('token/view-paid-invoice-detail')->with($data);
+      }else{
+        abort(404);
+      }
+    }
     public function getOrderById($id)
     {
-        $currentUser = Auth::user();
         $order = new Order;
         return $order->whereid($id)->firstOrFail();
     }
@@ -136,8 +163,14 @@ class TokenController extends Controller
     }
     public function UpdateOrder(Request $request) {
       $api = new Api;
-      $transactions = $api->CheckTransaction($request->account_type,$request->address);
-      $arrayName = array('status' => 'pending');
+      $helpers = new Helpers;
+      $transaction = $helpers->checkTokenbanace($request->order_id,$request->account_type);
+      if($transaction) {
+        $status = $transaction->getStatus();
+      }else {
+        $status = 'waiting';
+      }
+      $arrayName = array('status' => $status);
       return Response($arrayName);
     }
 }

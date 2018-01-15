@@ -10,7 +10,7 @@
           <div class="d-flex">
             <span class="text-muted">Your {{ env('TOKEN_NAME') }} balance</span>
           </div>
-          <div class="py-3 text-center text-lg text-success">{{ Auth::user()->balance }}</div>
+          <div class="py-3 text-center text-lg text-success">{{ $token_balance }}</div>
         </div>
       </div>
       <div class="col-6 col-lg-3">
@@ -18,7 +18,7 @@
           <div class="d-flex">
             <span class="text-muted">Referral tokens</span>
           </div>
-          <div class="py-3 text-center text-lg text-primary">{{ Auth::user()->balance }}</div>
+          <div class="py-3 text-center text-lg text-primary">{{ $token_balance }}</div>
         </div>
       </div>
       <div class="col-12 col-md-12 col-lg-6">
@@ -32,7 +32,7 @@
               <div class="float-left">
                 @if ($order->status == 'completed')
                 <a href="/token/paid-invoice/{{$order->id}}" class="_500">Invert {{$order->sent}} {{$order->currency}}</a>
-                <span class="badge badge-pill success pos-rlt text-sm mr-2"><b class="arrow left b-success pull-in"></b>Completed</span>
+                <span class="badge badge-pill success pos-rlt text-sm mr-2"><b class="arrow left b-success pull-in"></b>Paid</span>
                 @elseif($order->status == 'expired')
                 <span class="_500">Invert {{$order->sent}} {{$order->currency}}</span>
                 <span class="badge badge-pill danger pos-rlt text-sm mr-2"><b class="arrow left b-danger pull-in"></b>Expired</span>
@@ -48,7 +48,7 @@
                 <a href="/token/paid-invoice/{{$order->id}}" class="btn btn-sm success" href="#">View Invoice</a>
 								@elseif($order->status == 'expired')
                 @else
-                <a href="/token/vieworder/{{$order->id}}" class="btn btn-sm primary" href="#">Pay</a>
+                <a href="/token/vieworder/{{$order->id}}" class="btn btn-sm primary" href="#">Invest Now</a>
                 @endif
               </div>
             </div>

@@ -31,9 +31,9 @@
                 <li>
                   <a href="/dashboard">
                     <span class="nav-icon">
-                      <i class="fa fa-bank"></i>
+                      <i class="fa fa-dashboard"></i>
                     </span>
-                    <span class="nav-text">Transactions</span>
+                    <span class="nav-text">Dashboard</span>
                   </a>
                 </li>
                 <li>

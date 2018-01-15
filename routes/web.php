@@ -100,6 +100,14 @@ Route::group(['middleware' => ['auth', 'activated', 'currentUser', 'activity']],
         'as'   => '{order_id}',
         'uses' => 'TokenController@ViewOrder',
     ]);
+    Route::get('token/paid-invoice/{order_id}', [
+        'as'   => '{order_id}',
+        'uses' => 'TokenController@ViewPaidInvoice',
+    ]);
+    Route::get('token/paid-invoice-detail/{order_id}', [
+        'as'   => '{order_id}',
+        'uses' => 'TokenController@ViewPaidInvoiceDetail',
+    ]);
 });
 
 // Registered, activated, and is admin routes.
