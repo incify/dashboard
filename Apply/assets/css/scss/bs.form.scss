@@ -112,3 +112,13 @@ input:checked + .active-checked{
     }
   }
 }
+.has-error {
+  input {
+    border-color:red !important;
+  }
+}
+.help-block {
+  text-align: left;
+  color: red;
+  line-height: 2;
+}

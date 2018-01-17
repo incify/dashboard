@@ -41,6 +41,8 @@ class ExpireOrder extends Command
     {
       $now = Carbon::now();
       $order = new Order;
-      $order->where('expires_on','<',$now)->update(['status' => 'expired']);
+      $order->where('expires_on','<',$now)
+      ->wherestatus('waiting')
+      ->update(['status' => 'expired']);
     }
 }

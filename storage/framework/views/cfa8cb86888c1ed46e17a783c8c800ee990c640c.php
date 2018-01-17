@@ -8,19 +8,13 @@
     <div class="navbar-text nav-title flex" id="pageTitle"><?php if(trim($__env->yieldContent('template_title'))): ?><?php echo $__env->yieldContent('template_title'); ?><?php endif; ?></div>
 
     <ul class="nav flex-row order-lg-2">
-
+      <li>
+    <a href="?bg=light" class="change-preset"><img src="/images/sun.png" title="switch to day mode"></a>
+</li>
       <!-- User dropdown menu -->
       <?php if(!Auth::guest()): ?>
       <li class="dropdown d-flex align-items-center">
-        <a href="#" data-toggle="dropdown" class="d-flex align-items-center">
-          <span class="avatar w-32">
-            <?php if((Auth::User()->profile) && Auth::user()->profile->avatar_status == 1): ?>
-                <img src="<?php echo e(Auth::user()->profile->avatar); ?>" alt="<?php echo e(Auth::user()->name); ?>" class="user-avatar-nav">
-            <?php else: ?>
-                <div class="user-avatar-nav"></div>
-            <?php endif; ?>
-          </span>
-        </a>
+        <a href="#" data-toggle="dropdown" class="d-flex align-items-center">My Account</a>
         <div class="dropdown-menu dropdown-menu-right w pt-0 mt-2 animate fadeIn">
           <a class="dropdown-item mt-2" href="/token/buy">
               <span>Buy NOVA</span>

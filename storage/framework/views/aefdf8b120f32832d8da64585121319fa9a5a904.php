@@ -53,7 +53,10 @@
             </div>
           </div>
           <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
+					<div class="p-3">
+						<?php echo e($orders->links('partials.pagination')); ?>
 
+					</div>
       </div>
     </div>
 </div>

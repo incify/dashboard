@@ -7,14 +7,17 @@ use App\Models\Order;
 use App\Helpers\Orders;
 use App\Coinbase\Api;
 use App\Helpers\Helpers;
+use Auth;
 
 class DashboardController extends Controller
 {
     public function index(){
       $order_query = new Order;
       $helpers = new Helpers;
+      $currentUser = Auth::user();
       $orders = $order_query->orderBy('id', 'desc')
-                ->get();
+                ->whereuser_id($currentUser->id)
+                ->paginate(5);
       foreach ($orders as $order) {
         if($order->status == 'waiting'){
             $helpers->checkTokenbanace($order->id,$order->currency);

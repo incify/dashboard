@@ -54,7 +54,9 @@
             </div>
           </div>
           @endforeach
-
+					<div class="p-3">
+						{{ $orders->links('partials.pagination') }}
+					</div>
       </div>
     </div>
 </div>

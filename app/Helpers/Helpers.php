@@ -2,7 +2,7 @@
 namespace App\Helpers;
 use App\Models\WalletAddress;
 use App\Models\Order;
-use App\Models\Profile;
+use App\Models\Balance;
 use App\Models\User;
 use App\Coinbase\Api;
 use Auth;
@@ -37,9 +37,12 @@ class Helpers
       $status = 'waiting';
       $amount = 0;
     }
-    if($status == 'completed') {
+    if($status == 'pending'){
       $save_order = new Order;
-      $save_balance = new Profile;
+      $save_order->whereid($order_id)->update(['status' => 'pending']);
+    }elseif($status == 'completed') {
+      $save_order = new Order;
+      $save_balance = new Balance;
       $currentUser = Auth::user();
       $save_order->whereid($order_id)->update(['status' => 'completed']);
       if($this->getSentToken($order_id) == 0) {
@@ -64,7 +67,7 @@ class Helpers
   public function getUserToken()
   {
       $currentUser = Auth::user();
-      return Profile::whereuser_id($currentUser->id)->firstOrFail()->token;
+      return $currentUser->balance()->firstOrFail()->token;
   }
   public function getSentToken($id)
   {

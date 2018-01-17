@@ -1,4 +1,4 @@
-<div class="row">
+<!-- <div class="row">
     <div class="col-md-12 margin-bottom-2 text-center">
         {!! HTML::icon_link(route('social.redirect',['provider' => 'facebook']), 'fa fa-facebook', '', array('class' => 'btn btn-social-icon btn-lg margin-half btn-facebook')) !!}
         {!! HTML::icon_link(route('social.redirect',['provider' => '']), 'fa fa-twitter', '', array('class' => 'btn btn-social-icon btn-lg margin-half btn-twitter')) !!}
@@ -9,4 +9,6 @@
         {!! HTML::icon_link(route('social.redirect',['provider' => 'instagram']), 'fa fa-instagram', '', array('class' => 'btn btn-social-icon btn-lg margin-half btn-instagram')) !!}
         {!! HTML::icon_link(route('social.redirect',['provider' => '37signals']), 'fa fa-signal', '', array('class' => 'btn btn-social-icon btn-lg margin-half btn-basecamp')) !!}
     </div>
-</div>
+</div> -->
+<a href="{{route('social.redirect',['provider' => 'facebook'])}}" class="btn btn-block indigo text-white mb-2"><i class="fa fa-facebook float-left"></i> Sign in with Facebook </a>
+<a href="{{route('social.redirect',['provider' => 'google'])}}" class="btn btn-block red text-white"><i class="fa fa-google-plus float-left"></i> Sign in with Google+</a>

@@ -50,11 +50,7 @@
             window.Laravel = {!! json_encode([
                 'csrfToken' => csrf_token(),
             ]) !!};
-        </script>
-
-        @if (Auth::User() && (Auth::User()->profile) && $theme->link != null && $theme->link != 'null')
-            <link rel="stylesheet" type="text/css" href="{{ $theme->link }}">
-        @endif
+        </script
 
         @yield('head')
 
@@ -62,8 +58,9 @@
     <body>
 
         <div class="app" id="app">
-
+            @if(Auth::User())
             @include('partials.nav')
+            @endif
 
             <div id="content" class="app-content box-shadow-4 box-radius-4" role="main">
                 @include('partials.header')

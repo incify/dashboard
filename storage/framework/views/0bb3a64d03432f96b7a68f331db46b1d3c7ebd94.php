@@ -50,11 +50,7 @@
             window.Laravel = <?php echo json_encode([
                 'csrfToken' => csrf_token(),
             ]); ?>;
-        </script>
-
-        <?php if(Auth::User() && (Auth::User()->profile) && $theme->link != null && $theme->link != 'null'): ?>
-            <link rel="stylesheet" type="text/css" href="<?php echo e($theme->link); ?>">
-        <?php endif; ?>
+        </script
 
         <?php echo $__env->yieldContent('head'); ?>
 
@@ -62,8 +58,9 @@
     <body>
 
         <div class="app" id="app">
-
+            <?php if(Auth::User()): ?>
             <?php echo $__env->make('partials.nav', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
+            <?php endif; ?>
 
             <div id="content" class="app-content box-shadow-4 box-radius-4" role="main">
                 <?php echo $__env->make('partials.header', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
