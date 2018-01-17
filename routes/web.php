@@ -58,6 +58,7 @@ Route::group(['middleware' => ['auth', 'activated', 'activity']], function () {
 Route::group(['middleware' => ['auth', 'activated', 'currentUser', 'activity']], function () {
 
     // User Profile and Account Routes
+    Route::get('user/settings', 'ProfileSettingsController@index');
     Route::resource(
         'profile',
         'ProfilesController', [

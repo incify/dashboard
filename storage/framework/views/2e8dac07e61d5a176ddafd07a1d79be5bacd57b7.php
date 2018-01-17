@@ -46,7 +46,7 @@
                 </li>
 
                 <li>
-                  <a href="/token/transaction">
+                  <a href="/user/settings">
                     <span class="nav-icon">
                       <i class="fa fa-user"></i>
                     </span>

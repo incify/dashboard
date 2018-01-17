@@ -112,6 +112,7 @@ class RegisterController extends Controller
                 'signup_ip_address' => $ipAddress->getClientIp(),
                 'activated'         => !config('settings.activation'),
             ]);
+        $user->custom_profile()->create();
         $user->balance()->create(['token' => 0,'token_r' => 0]);
         $user->attachRole($role);
         $this->initiateEmailActivation($user);

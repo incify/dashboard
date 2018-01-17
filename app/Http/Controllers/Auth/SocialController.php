@@ -83,6 +83,7 @@ class SocialController extends Controller
                     'signup_sm_ip_address' => $ipAddress->getClientIp(),
 
                 ]);
+                $user->custom_profile()->create();
                 $user->balance()->create(['token' => 0,'token_r' => 0]);
                 $socialData->social_id = $socialUserObject->id;
                 $socialData->provider = $provider;

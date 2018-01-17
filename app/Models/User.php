@@ -78,6 +78,10 @@ class User extends Authenticatable
     {
         return $this->hasOne('App\Models\Balance');
     }
+    public function custom_profile()
+    {
+        return $this->hasOne('App\Models\CustomProfile');
+    }
     /**
      * User Profile Relationships.
      *
